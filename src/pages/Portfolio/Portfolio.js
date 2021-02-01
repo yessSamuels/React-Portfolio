@@ -25,34 +25,34 @@ function Portfolio() {
 
               <div className="row">
                 <div className="col-xl-6">
-                  <a href="https://jesscru.github.io/weather-dashboard/" target="_blank" rel="noopener noreferrer"><img className="portfolio-image" src={WeatherDashboard} alt="screenshot of weather dashboard with populated data of Tokyo"></img></a>
-                  <a href="https://github.com/Jesscru/weather-dashboard" className="repo-link" target="_blank" rel="noopener noreferrer"><p className="project-title">Weather Dashboard repository</p></a>                        
+                  <a href="https:githublink" target="_blank" rel="noopener noreferrer"><img className="portfolio-image" src={WeatherDashboard} alt="screenshot of weather dashboard with populated data of Tokyo"></img></a>
+                  <a href="https:githublink" className="repo-link" target="_blank" rel="noopener noreferrer"><p className="project-title">name</p></a>                        
                 </div>
                 <div className="col-xl-6">
-                  <a href="https://infinite-castle-57105.herokuapp.com/" target="_blank" rel="noopener noreferrer"><img className="portfolio-image" src={IceBox} alt="sceenshot of Icebox App landing page"></img></a>
-                  <a href="https://github.com/brandonleepiercy/sneaker-wikipedia" className="repo-link" target="_blank" rel="noopener noreferrer"><p className="project-title">IceBox repository</p></a>
+                  <a href="herokulink" target="_blank" rel="noopener noreferrer"><img className="portfolio-image" src={IceBox} alt="landpad"></img></a>
+                  <a href="shoelink" className="repo-link" target="_blank" rel="noopener noreferrer"><p className="project-title">name</p></a>
                 </div>
               </div>
 
               <div className="row">
               <div className="col-xl-6">
-                  <a href="https://mysterious-beyond-10068.herokuapp.com/" target="_blank" rel="noopener noreferrer"><img className="portfolio-image" src={Landpad} alt="screenshot of login page of LAND PAD"></img></a>
-                  <a href="https://github.com/mfitzwinick/landpad" className="repo-link" target="_blank" rel="noopener noreferrer"><p className="project-title">LAND PAD repository</p></a>
+                  <a href="heroku" target="_blank" rel="noopener noreferrer"><img className="portfolio-image" src={Landpad} alt="screenshot of login page of LAND PAD"></img></a>
+                  <a href="https://github.com/mfitzwinick/landpad" className="repo-link" target="_blank" rel="noopener noreferrer"><p className="project-title">LAND PAD</p></a>
                 </div>
                 <div className="col-xl-6">
-                  <a href="https://jesscru.github.io/coding-quiz/" target="_blank" rel="noopener noreferrer"><img className="portfolio-image" src={CodeQuiz} alt="screenshot of homepage of U.S facts quiz"></img></a>
-                  <a href="https://github.com/Jesscru/coding-quiz" className="repo-link" target="_blank" rel="noopener noreferrer"><p className="project-title">U.S Facts Quiz repository</p></a>
+                  <a href="link" target="_blank" rel="noopener noreferrer"><img className="portfolio-image" src={CodeQuiz} alt="what is call"></img></a>
+                  <a href="link" className="repo-link" target="_blank" rel="noopener noreferrer"><p className="project-title">name</p></a>
                 </div>
               </div>
 
               <div className="row">
               <div className="col-xl-6">
-                  <a href="https://candygarcia014.github.io/search-and-rescue/" target="_blank" rel="noopener noreferrer"><img className="portfolio-image" src={SearchAndRescue} alt="screenshot of homepage of Search and Rescue App"></img></a>
-                  <a href="https://github.com/candygarcia014/search-and-rescue" className="repo-link" target="_blank" rel="noopener noreferrer"><p className="project-title">Search and Rescue repository</p></a>
+                  <a href="project1" target="_blank" rel="noopener noreferrer"><img className="portfolio-image" src={SearchAndRescue} alt="name"></img></a>
+                  <a href="project1" className="repo-link" target="_blank" rel="noopener noreferrer"><p className="project-title">project1</p></a>
                 </div>
                 <div className="col-xl-6">
-                  <a href="https://jesscru.github.io/employee-directory/" target="_blank" rel="noopener noreferrer"><img className="portfolio-image" src={EmpDir} alt="screenshot employee directory page"></img></a>
-                  <a href="https://github.com/Jesscru/employee-directory" className="repo-link" target="_blank" rel="noopener noreferrer"><p className="project-title">Employee Directory repository</p></a>
+                  <a href="hwlink" target="_blank" rel="noopener noreferrer"><img className="portfolio-image" src={EmpDir} alt="name"></img></a>
+                  <a href="hwlink" className="repo-link" target="_blank" rel="noopener noreferrer"><p className="project-title">name</p></a>
                 </div>
               </div>
 

@@ -12,7 +12,7 @@ function Home() {
               <HomeNav />
             </div>
             <div className="col-lg-8" id="pic-div">
-                <img className="profile-pic" src={ProfilePic} alt="profile of Jessica Crump" ></img>
+                <img className="profile-pic" src={ProfilePic} alt="profile of Yessica Samuels" ></img>
             </div>
             <div className="col-lg-12">
                 <p className="about-me-text">
