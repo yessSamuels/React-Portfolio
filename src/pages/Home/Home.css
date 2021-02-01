@@ -1,0 +1,29 @@
+.col-lg-4 {
+    padding: 0;
+}
+
+.header {
+    color: rgb(193, 193, 193);
+    text-align: center;
+    margin-top: 1.5rem;
+}
+.profile-pic {
+    height: auto;
+    display: block;
+    margin: 100px 60px 70px 20px;
+    width: 70%;
+}
+
+div#pic-div {
+    float: right;
+}
+
+.about-me-text {
+    color:  rgb(193, 193, 193);
+    text-align: center;
+    letter-spacing: 2px;
+    float: right;
+    margin-bottom: 60px;
+    line-height: 2;
+    font-weight: 200;
+}
