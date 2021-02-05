@@ -1,21 +1,8 @@
-.col-xl-4 {
-    width: 30%;
-    padding: 0;
-}
-
-.col-xl-6 {
-    padding-left: 35px;
-}
-
 .project-display {
     padding: 0;
     margin-top: 120px;
 }
 
-#instructions {
-    color: rgb(120, 120, 120);
-    text-align: center;
-}
 
 .flex {
     display: flex;
